@@ -104,8 +104,6 @@ public class Solution {
         }
     }    
     
-    
-
     /**  
      * Converting input string into json
      * @param
@@ -168,10 +166,8 @@ public class Solution {
     	return tmp;
     }
     
-    
-    
     //---------------------------------------------------    
-    //--------- H E L P E R  M E T O D S ----------------
+    //--------- H E L P E R  M E T H O D S --------------
     //---------------------------------------------------
     
     private static String doubleQuotes(String str) {
