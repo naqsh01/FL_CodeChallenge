@@ -48,6 +48,7 @@ In root project directory:
 - Keys can't have spaces
 - No embeded { or } 
 - Can handle up to 3+ levels 
+- Do not handle bad input, end up throwing an exception. Needs a graceful exit
 - No automation tests but started to create junit and mocking out data
 
 ## Examples
