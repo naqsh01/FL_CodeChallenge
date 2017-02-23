@@ -13,6 +13,7 @@ Code challenge including bonus (sorted in alaphbetical order).
     - [How to Run Locally](#how-to-run-locally)
   - [Assumptions](#assumptions)
   - [Examples](#examples)
+  - [Altnernative Approaches](#alternative_approaches)
   - [Authors](#authors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -59,6 +60,9 @@ Example: (id,created(date),employee(id(c,a,b),firstname,employeeType(id), lastna
 Example: (id,created(date),employee(id (a(b(c))),firstname,employeeType(id), lastname),location(region(isWest, isEast)))
 ![image](https://cloud.githubusercontent.com/assets/3868736/23201741/f971d440-f8a8-11e6-81d4-9a8608ea60f5.png)
 
+
+## Alternative Approaches
+- RegEx Expression: Since this a balanced pattern, it would be easy to create a regular expression
 
 ## Authors
 
