@@ -13,7 +13,7 @@ Code challenge including bonus (sorted in alaphbetical order).
     - [How to Run Locally](#how-to-run-locally)
   - [Assumptions](#assumptions)
   - [Examples](#examples)
-  - [Altnernative Approaches](#alternative_approaches)
+  - [Altnernative Approaches](#alternative-approaches)
   - [Authors](#authors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
